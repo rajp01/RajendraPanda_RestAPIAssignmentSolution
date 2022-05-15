@@ -1,0 +1,13 @@
+com\gl\employeesvc\EmployeesSvc\EmployeesSvcApplication.class
+com\gl\employeesvc\EmployeesSvc\dao\RoleRepository.class
+com\gl\employeesvc\EmployeesSvc\entity\Employee.class
+com\gl\employeesvc\EmployeesSvc\security\MyUserDetails.class
+com\gl\employeesvc\EmployeesSvc\entity\User.class
+com\gl\employeesvc\EmployeesSvc\service\EmployeeServiceImpl.class
+com\gl\employeesvc\EmployeesSvc\service\EmployeeService.class
+com\gl\employeesvc\EmployeesSvc\dao\EmployeeRepository.class
+com\gl\employeesvc\EmployeesSvc\entity\Role.class
+com\gl\employeesvc\EmployeesSvc\controller\EmployeeRestController.class
+com\gl\employeesvc\EmployeesSvc\dao\UserRepository.class
+com\gl\employeesvc\EmployeesSvc\security\WebSecurityConfig.class
+com\gl\employeesvc\EmployeesSvc\service\UserDetailsServiceImpl.class
